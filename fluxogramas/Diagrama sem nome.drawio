@@ -34,6 +34,9 @@
         <mxCell id="2b4e8129b02d487f-13" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-3" vertex="1">
           <mxGeometry x="625" y="87.49999999999991" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HCitkY2xnXKGhHKzIr2a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-3" source="2b4e8129b02d487f-7" target="HCitkY2xnXKGhHKzIr2a-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2b4e8129b02d487f-7" value="Verifica se a quantidade a ser produzida atende ao mínimo necessário por módulo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-3" vertex="1">
           <mxGeometry x="690" y="84.5" width="130" height="37" as="geometry" />
         </mxCell>
@@ -57,6 +60,9 @@
         </mxCell>
         <mxCell id="HCitkY2xnXKGhHKzIr2a-12" value="Finaliza Fluxo" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="620" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HCitkY2xnXKGhHKzIr2a-14" value="Checar no sistema:&lt;br&gt;Estrutura aprovada?&lt;div&gt;Roteiro de operações aprovados?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="860" y="84" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="Engenharia Mecânica" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="360" width="1490" height="180" as="geometry" />
